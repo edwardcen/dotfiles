@@ -1,0 +1,1 @@
+/Users/edwardcen/.config/nvim/init.vim
